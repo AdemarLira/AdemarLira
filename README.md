@@ -9,7 +9,7 @@ Hi, I am a front-end developer and a student of Systems Analysis and Development
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdemarLira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img align="right" height="150" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhxbGt0OXlkbTZkcGdlcnBseHk3eTl1eWRwZzhibWp6aHlhb2Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif]"  />
+  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgwMnRtbGp0bTc5eTZoNWNlZWQ1MHRheGhwYmQzaGI4a2Q0cDd2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdemarLira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
